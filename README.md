@@ -1,3 +1,5 @@
+<!-- @format -->
+
 <h1 align="center">Welcome to GoldenStarSwap 👋</h1>
 <p>
   <img src="https://img.shields.io/badge/version-1.0-blue.svg?cacheSeconds=2592000" />
@@ -6,6 +8,7 @@
 <p>
   <img src="./images/demo.gif" />
 </p>
+
 ## Introduction
 
 GoldenStarSwap brings the easiest way to swap crypto across blockchains. You can swap **ERC-20s**, **ETH** to **ONE (Harmony)** and vice versa.
