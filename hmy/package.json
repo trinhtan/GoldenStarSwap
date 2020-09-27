@@ -1,0 +1,19 @@
+{
+  "name": "golden_start_swap",
+  "version": "1.0.0",
+  "description": "golden_start_swap",
+  "main": "truffle.js",
+  "dependencies": {
+    "@chainlink/contracts": "^0.0.10",
+    "@harmony-js/core": "0.1.53",
+    "@openzeppelin/contracts": "^2.2.0",
+    "dotenv": "^8.2.0",
+    "openzeppelin-solidity": "^2.2.0",
+    "solc": "^0.5.8",
+    "truffle": "^5.0.1",
+    "tslib": "^1.13.0"
+  },
+  "scripts": {
+    "migrate": "npx truffle migrate --network testnet"
+  }
+}

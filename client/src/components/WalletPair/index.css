@@ -1,0 +1,22 @@
+.wallet-pair {
+  margin: 50px 0 0 20px;
+}
+
+.wallet-left,
+.wallet-right {
+  border-style: dashed;
+  border-color: #d9d9d9;
+  color: rgba(0, 0, 0, 0.85);
+  border-radius: 15px;
+}
+
+.wallet-left button,
+.wallet-right button {
+  display: block;
+  margin: 0 auto !important;
+}
+
+.wallet-type {
+  font-weight: bold;
+  text-align: center;
+}

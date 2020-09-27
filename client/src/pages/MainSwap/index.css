@@ -1,0 +1,14 @@
+.mainSwap {
+  left: 10%;
+}
+
+.style-main-swap {
+  margin: 0 auto;
+  width: 60%;
+  background: linear-gradient(to right, rgb(181 195 239), rgb(199 191 191)) !important;
+  padding: 33px;
+  border-radius: 15px;
+  box-shadow: 5px 5px rgba(2, 128, 117, 0.6), 10px 10px rgba(2, 128, 117, 0.5),
+    15px 15px rgba(2, 128, 117, 0.4), 20px 20px rgba(2, 128, 117, 0.3),
+    25px 25px rgba(2, 128, 117, 0.2) !important;
+}

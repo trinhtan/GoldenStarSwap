@@ -1,0 +1,48 @@
+.receiver-address {
+  font-weight: bold !important;
+}
+.ant-btn.btn-swap {
+  display: block !important;
+  width: 100% !important;
+  background-image: linear-gradient(108deg, #e7323e -106%, #a7223f);
+  box-shadow: 3px 3px 12px 0 rgba(0, 0, 0, 0.18);
+  color: whitesmoke;
+}
+.ant-btn.btn-swap:hover {
+  background-image: linear-gradient(108deg, #e7323e -106%, #a7223f);
+  box-shadow: 3px 3px 12px 0 rgba(0, 0, 0, 0.18);
+  color: whitesmoke;
+  opacity: 80%;
+}
+
+.swap-icon {
+  float: right;
+}
+
+.swap-label {
+  text-align: center;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
+.button-swap {
+  margin: 20px auto 0 auto;
+  width: 20%;
+  padding: 20px;
+}
+
+.button-swap button {
+  height: 55px !important;
+}
+
+.button-swap button.btn-swap:active {
+  background-image: linear-gradient(108deg, #e7323e -106%, #a7223f) !important;
+  box-shadow: 3px 3px 12px 0 rgba(0, 0, 0, 0.18);
+  color: whitesmoke;
+}
+
+.button-swap button.btn-swap:focus {
+  background-image: linear-gradient(108deg, #e7323e -106%, #a7223f) !important;
+  box-shadow: 3px 3px 12px 0 rgba(0, 0, 0, 0.18);
+  color: whitesmoke;
+}

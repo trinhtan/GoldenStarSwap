@@ -1,0 +1,39 @@
+{
+  "name": "golden_start_swap",
+  "version": "1.1.0",
+  "description": "golden_start_swap",
+  "main": "truffle.js",
+  "directories": {
+    "test": "test"
+  },
+  "author": "Denali Marsh",
+  "license": "ISC",
+  "dependencies": {
+    "@chainlink/contracts": "^0.0.10",
+    "@openzeppelin/contracts": "^2.5.1",
+    "big-integer": "^1.6.48",
+    "bignumber.js": "^6.0.0",
+    "bluebird": "^3.5.1",
+    "cross-env": "5.0.5",
+    "dotenv": "^8.1.0",
+    "eth-lib": "^0.2.8",
+    "ethereumjs-util": "^5.2.0",
+    "keccak": "^1.4.0",
+    "lodash": "^4.17.13",
+    "truffle-contract": "^4.0.31",
+    "utf8": "^3.0.0"
+  },
+  "devDependencies": {
+    "@truffle/hdwallet-provider": "^1.0.18",
+    "chai": "^4.2.0",
+    "chai-as-promised": "^7.1.1",
+    "chai-bignumber": "^3.0.0",
+    "ganache-cli": "^6.8.2",
+    "truffle": "^5.1.21",
+    "web3": "^1.2.6",
+    "web3-utils": "^1.0.0-beta.52"
+  },
+  "scripts": {
+    "migrate": "npx truffle migrate --reset --network ropsten"
+  }
+}

@@ -1,0 +1,19 @@
+.swap-pair {
+  margin-left: 20px;
+}
+
+.style-button-swap {
+  text-align: center;
+}
+
+.margin-right-10 {
+  margin-right: 10px;
+}
+
+.input-border-round .ant-input-number-input-wrap {
+  border-radius: 10px;
+}
+
+.ant-select-selection-item {
+  padding-top: 2.5px !important;
+}
